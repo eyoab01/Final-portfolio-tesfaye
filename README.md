@@ -41,14 +41,14 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://eyoab01.github.io/mobile-portfolio-project-final/)
+- [Live Demo Link](https://github.com/eyoab01/Final-portfolio-tesfaye/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-1.copy the repository link from github.(https://github.com/eyoab01/mobile-portfolio-project-final)
+1.copy the repository link from github.(https://github.com/eyoab01/Final-portfolio-tesfaye)
 2.open vscode on your computer clone it to your new folder.
 3.wright click on the index.html file and select open with live server.
 
@@ -62,7 +62,7 @@ vscode editor (you can download it from https://code.visualstudio.com/download)
 create a folder and name it 'my-folder'
 open with vscode editor > right click on the folder and select >open in integrated terminal option
 cd my-folder
-git clone https://github.com/eyoab01/mobile-portfolio-project-final.git
+git clone https://github.com/eyoab01/Final-portfolio-tesfaye.git
 
 ### Usage
 
@@ -72,7 +72,7 @@ go to your project folder and right click on the index.html file and select open
 ### Run tests
 
 To run tests, do the following step:
-go to your project folder and right click on the index.html or https://eyoab01.github.io/mobile-portfolio-project-final/
+go to your project folder and right click on the index.html or https://github.com/eyoab01/Final-portfolio-tesfaye/
 
 ### Deployment
 
@@ -115,7 +115,7 @@ vscode or github.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eyoab01/mobile-portfolio-project-final/issues).
+Feel free to check the [issues page](https://github.com/eyoab01/Final-portfolio-tesfaye/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
